@@ -1,4 +1,4 @@
-# 🌐 ** AWS VPC Connectivity Project** 🌐  
+# 🌐 **AWS VPC Connectivity Project** 🌐  
 
 Welcome to the **Legendary AWS VPC Connectivity Project**, where we explore the power of **Amazon VPC** and its ability to create secure, isolated networks within the AWS cloud. This project demonstrates the practical steps of managing EC2 instances, troubleshooting connectivity, and configuring secure communication between resources in a VPC.
 
@@ -68,9 +68,12 @@ flowchart LR
 ```
 
 ## 🎨 Ping vs Curl
-Tool	Purpose	Example Command
-Ping	Tests basic network connectivity using ICMP packets.	ping 10.0.1.231
-Curl	Sends HTTP requests to check server responses.	curl http://10.0.1.231
+
+| **Tool** | **Purpose**                                           | **Example Command**     |
+|----------|-------------------------------------------------------|--------------------------|
+| **Ping** | Tests basic network connectivity using ICMP packets.  | `ping 10.0.1.231`       |
+| **Curl** | Sends HTTP requests to check server responses.         | `curl http://10.0.1.231` |
+
 ## 🌟 Achievements and Learnings
 ### 🏆 Achievements
 Successfully connected to EC2 instances using Instance Connect.
