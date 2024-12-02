@@ -1,18 +1,18 @@
-# 🌐 **AWS VPC Connectivity Project** 🌐  
+# 🌐 **AWS VPC Connectivity Project** 🌐    
 
 Welcome to the **Legendary AWS VPC Connectivity Project**, where we explore the power of **Amazon VPC** and its ability to create secure, isolated networks within the AWS cloud. This project demonstrates the practical steps of managing EC2 instances, troubleshooting connectivity, and configuring secure communication between resources in a VPC.
 
 ---
 
-## 🏗️ **Today's Achievements**  
+## 🏗️ **Today's Achievements**      
 
-### 🌟 **1. Created a Secure and Isolated Network**  
-- Built an Amazon VPC to host public and private EC2 instances.  
-- Configured **subnets**, **route tables**, **Network ACLs**, and **security groups** for network isolation and control.  
+### 🌟 **1. Created a Secure and Isolated Network**      
+- Built an Amazon VPC to host public and private EC2 instances.      
+- Configured **subnets**, **route tables**, **Network ACLs**, and **security groups** for network isolation and control.      
 
-### 🔒 **2. Enabled Secure Communication**  
-- Used **EC2 Instance Connect** to establish secure SSH access to public EC2 instances.  
-- Configured **ICMP rules** to enable communication between public and private EC2 instances.  
+### 🔒 **2. Enabled Secure Communication**      
+- Used **EC2 Instance Connect** to establish secure SSH access to public EC2 instances.       
+- Configured **ICMP rules** to enable communication between public and private EC2 instances.       
 
 ### 🌐 **3. Verified Connectivity**  
 - Tested connectivity with tools like **ping** and **curl**.  
